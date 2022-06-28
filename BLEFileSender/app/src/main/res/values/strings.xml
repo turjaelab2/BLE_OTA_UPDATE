@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLE File Sender</string>
+    <string name="send">SEND</string>
+    <string name="this_is_a_test">This is a test</string>
+    <string name="init" />
+    <string name="initiate">INITIATE</string>
+</resources>
